@@ -1,4 +1,5 @@
-# Playwright Test Automation
+
+# Playwright Test Automation for a demo Banking APP
 
 This framework include tests for checking UI functionality for the Banking Project.
 https://www.globalsqa.com/angularJs-protractor/BankingProject
@@ -23,3 +24,4 @@ npx playwright test
 - fixtures.ts: Used to set up global configurations and data across tests
 
 - tests: folder for defining the spec files with tests to verify application functionality
+>>>>>>> d8a00180c9c3035f4a3454db87b7873d226294e3
